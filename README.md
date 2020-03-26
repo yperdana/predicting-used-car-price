@@ -8,5 +8,5 @@ We had filtered the data such as:
 - Only SUV type 
 - Only Mercedes-Bens
 
-For Filtered data source link:
+There are csv files above for all SUV cars. but in this case we only use mercedes-bens brand only. For Filtered data, we use this link:
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTkbsvshuhRMeir109MvC_3QvbpJwBJkMN9R0KeCWehSzu74CoU29Nlf11klUkdHWfSoH81HHkbxtru/pub?output=csv
